@@ -11,3 +11,11 @@ void doSomethingRemotely(){
 int main(){
 	hello();
 }
+
+void doWhatYouLike() {
+	printf("I like to watch tv series");
+	printf("I like to watch tv series");
+	printf("I like to watch tv series");
+	printf("I like to watch tv series");
+	printf("I like to watch tv series");
+}
